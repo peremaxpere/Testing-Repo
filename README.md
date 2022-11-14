@@ -1,2 +1,2 @@
-### Testing-Repo
-How to create a repository
+### `Testing-Repo`
+**How** to *create* a repository
